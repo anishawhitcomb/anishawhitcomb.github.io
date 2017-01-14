@@ -57,3 +57,7 @@ nav ul li a:hover {
 
 #green {background: green;}
 #blue {background: blue;}
+
+p, img {
+  display: none;
+}
