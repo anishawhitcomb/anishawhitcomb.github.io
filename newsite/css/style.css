@@ -16,7 +16,7 @@ header h1 {
     background-size: cover;
 }
 
-nal ul li a:hover {
+nal ul li a {
   list-style-type: none;
   margin: 0;
   padding: 0;
