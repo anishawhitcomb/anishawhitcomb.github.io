@@ -1,0 +1,26 @@
+section {
+ height: 300px;
+ color: green;
+ padding-top: 20px;
+ text-align: center;
+ }
+ 
+ #top
+  background: url(https://static.pexels.com/photos/226243/pexels-photo-226243.jpeg);
+  background-size: cover;
+  
+  }
+  
+  
+  #middle {
+  background: url(https://static.pexels.com/photos/122260/pexels-photo-122260.jpeg);
+  background-size: cover;
+  
+  }
+  
+  
+  #buttom:
+  background: url(https://static.pexels.com/photos/26738/pexels-photo-26738.jpg);
+  background-size: cover;
+  
+  }
