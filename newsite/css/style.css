@@ -38,8 +38,14 @@ nav ul li a:hover {
   color: red;
 }
 
-
-
+@media screen and (max-width: 480px) }
+  body {
+      background-color: lightgreen;
+}
+  header {
+      background-color: yellow
+}
+  img
 
 
 
